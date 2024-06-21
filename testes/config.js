@@ -1,0 +1,3 @@
+const token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MTg4ODkxMjAsImV4cCI6MTcxODg5NjMyMH0.Zsgxj_xAnv3UIDGw8Aw6jbMcEERn1tmFambgBASq1Fc"
+
+module.exports={token}
